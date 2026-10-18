@@ -9,7 +9,7 @@ st.set_page_config(
 
 # Título y Encabezado
 st.title("🏥 AuditaSalud AI")
-st.subtitle("Asistente Inteligente para la Contestación Estratégica de Glosas por Pertinencia Médica")
+st.caption("Asistente Inteligente para la Contestación Estratégica de Glosas por Pertinencia Médica")
 st.markdown("---")
 
 # Barra lateral informativa
@@ -54,7 +54,7 @@ Revisados los antecedentes clínicos del usuario, se ratifica la pertinencia mé
 
 * **Evolución y Refractariedad:** La paciente presenta un cuadro clínico de cefalea crónica de 8 meses de evolución, habiendo agotado esquemas farmacológicos de primera línea sin respuesta favorable.
 * **Criterios de Cefalea Red Flag (Signos de Alarma):** La presencia de cefalea nocturna que interrumpe el sueño asociada a focalización o alteración en el examen físico (marcha) constituye un criterio médico absoluto para indicación de imagenología neurodiagnóstica de alta complejidad, de acuerdo con la Guía de Práctica Clínica para el Manejo de Cefaleas.
-* **Progresión Diagnóstica:** El estudio **{procedimiento}** resulta indispensable para descartar patología estructural subyacente de origen neurológico, garantizando la seguridad del paciente y la oportunidad en el diagnóstico.
+* **Progresión Diagnóstica:** El estudio **{procedimiento}** resulta indispensable para descartar patología structural subyacente de origen neurológico, garantizando la seguridad del paciente y la oportunidad en el diagnóstico.
 
 ### 3. PETICIÓN CONCRETA
 Por lo expuesto y con fundamento en los soportes clínicos adjuntos, solicitamos de manera formal el **LEVANTAMIENTO TOTAL DE LA GLOSA** y la posterior autorización de pago de la factura correspondiente al procedimiento **{procedimiento}**.
